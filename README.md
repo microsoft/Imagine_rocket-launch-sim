@@ -39,6 +39,9 @@ Remember where you save these Rocket Launch Sim files, since Unity needs to know
 ## How do I help?
 Read up further on [contributing here](https://github.com/Microsoft/Imagine_rocket-launch-sim/blob/master/CONTRIBUTING.md).
 
+## Code of Conduct
+This project has adopted the [Microsoft Open Source Code of Conduct](http://microsoft.github.io/codeofconduct). For more information see the [Code of Conduct FAQ](http://microsoft.github.io/codeofconduct/faq.md) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. 
+
 ## LICENSE
 
 Rocket Launch Sim
